@@ -16,7 +16,7 @@
 
 2. [면접질문 금지사항](precaution.md)
 
-3. [면접질문 경력](precaution.md)
+3. [면접질문 (경력)](old-employee.md)
 
 4. 면접질문 신입
 
