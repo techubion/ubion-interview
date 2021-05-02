@@ -20,4 +20,4 @@
 
 4. [면접질문 (신입)](new-employee.md)
 
-5. **직무별 면접평가표(interview score)**
+5. **직무별 면접평가표(interview score)** =>작업중
