@@ -16,8 +16,8 @@
 
 2. [면접질문 금지사항](precaution.md)
 
-3. [면접 질문 경력](./old employee.md)
+3. [면접질문 경력](old employee.md)
 
-4. [면접 질문 신입](new employee.md)
+4. 면접질문 신입
 
 5. **직무별 면접평가표(interview score)**
