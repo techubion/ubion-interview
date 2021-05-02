@@ -14,7 +14,10 @@
    * 지원자의 성별,지역,학교는 입사지원서의 내용으로 확인하고 중복질문은 지양
    * 압박질문은 직무와 관련성이 없으면 지양하고,비언어적/반언어적인 표정/말투,자세 주의
 
-1. [면접질문 금지사항](precaution.md)
-2. [면접 질문(경력)](old employee.md)
-3. [면접 질문(신입)](new employee.md)
+2. [면접질문 금지사항](precaution.md)
+
+3. [면접 질문 경력](old employee.md)
+
+4. [면접 질문 신입](new employee.md)
+
 5. **직무별 면접평가표(interview score)**
