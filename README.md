@@ -21,9 +21,10 @@
 
 2. [면접질문 금지사항](precaution.md)
 
-3. [면접질문 (경력)](old-employee.md)
+3. [일반분야 면접질문 (경력)](old-employee.md)
 
-4. [면접질문 (신입)](new-employee.md)
+4. [일반분야 면접질문 (신입)](new-employee.md)
 
-5. **직무별 면접평가표(interview score)** =>작업중
-   가) 개발직 질문지(경력/신입)(developer.md)
+5. [개발분야 면접질문 (경력/신입)](developer.md)
+
+6. **직무별 면접평가표(interview score)** =>작업중
