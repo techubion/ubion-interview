@@ -2,7 +2,7 @@
 
 
 # 개발직 인터뷰 질문지
-
+(*영문으로 나오는 경우 크롬브라우저에서 우측 버튼에서 '번역' 클릭하면 됩니다)
 ### Table of Contents
 
 - [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
