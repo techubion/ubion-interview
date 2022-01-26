@@ -27,5 +27,5 @@
 
 5. [개발분야 면접질문 (경력/신입)](developer.md)
 
-6. [pm분야 면접질문 (경력/신입)](project manager.md)
+6. [개발분야 면접질문 (경력/신입)](project manager.md)
 
