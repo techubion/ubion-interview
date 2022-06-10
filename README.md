@@ -20,13 +20,15 @@
    * 압박질문은 직무와 관련성이 없으면 지양하고,비언어적/반언어적인 표정/말투,자세 주의
    * 우리랑 너무 잘맞는다는 식으로 합격 늬앙스의 답변이나 합격을 예상하는 말을 하지 않습니다
 
-2. [면접질문 금지사항](precaution.md)
+2.  [면접 기본질문](base interview.md)
 
-3. [일반분야 면접질문 (경력)](old-employee.md)
+3.  [면접질문 금지사항](precaution.md)
 
-4. [일반분야 면접질문 (신입)](new-employee.md)
+4. [일반분야 면접질문 (경력)](old-employee.md)
 
-5. [개발분야 면접질문 (경력/신입)](developer.md)
+5. [일반분야 면접질문 (신입)](new-employee.md)
 
-6. [PM분야 면접질문 (경력/신입)](project-manager.md)
+6. [개발분야 면접질문 (경력/신입)](developer.md)
+
+7. [PM분야 면접질문 (경력/신입)](project-manager.md)
 
